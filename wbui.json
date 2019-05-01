@@ -35,10 +35,10 @@
     "BackgroundTab4": 4,
     "BackgroundTab5": 4,
     "Background3Color": "0,0,255,0.5",
-    "FontColorButtons": "255,255,255",
+    "FontColorButtons": "175,225,255",
     "FontColorServerName": "255,95,0",
-    "FontColorTabTitles": "20,0,255",
-    "FontColorTabText": "150,150,255",
+    "FontColorTabTitles": "175,225,255",
+    "FontColorTabText": "175,225,255",
     "UseSteamBrowserLink1": false,
     "UseSteamBrowserLink2": false,
     "Tab1Title1": "A 6 Map PVP Cluster Wiped 4/18 | x5 XP / x10 Harvest / x20 Taming/Breeding",
@@ -56,7 +56,16 @@
     "Tab5Title1": "",
     "Tab5Title2": "",
     "Tab5Title3": "",
-    "Tab1Text1": "",
+    "Tab1Text1": "Welcome to the ICEFIRE Ark Cluster
+    
+Maps: Island - Aberration - Ragnarok - The Center - Extinction - Scorched Earth
+
+Current Cluster Event: ARKaeology
+
+Max Level and Rare (lvl 180) Dino Raffles 4 times a week!
+
+TCReward Vault earns 5ARc pts per hour played on servers!
+    ",
     "Tab1Text2": "",
     "Tab1Text3": "",
     "Tab2Text1": "- Player level cap 105 (+ ascension)
@@ -72,7 +81,7 @@
 - 8 man Tribe limit + 1 Alliance allowed
 - Cave dmg multiplier: x6
 - Loot multiplier: x1.5
-- Turret limit: 100 in 50 foundation radius
+- Turret limit: 150 in 50 foundation radius
 - Gacha Crafting Skill: x2
 - Crosshair enabled
 - Admin Logging enabled
