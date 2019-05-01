@@ -44,7 +44,7 @@
     "Tab1Title1": "A 6 Map PVP Cluster Wiped 4/18 | x5 XP / x10 Harvest / x20 Taming/Breeding",
     "Tab1Title2": "",
     "Tab1Title3": "",
-    "Tab2Title1": "Cluster Rates & Settings",
+    "Tab2Title1": "Cluster Rates and Settings",
     "Tab2Title2": "Mod Settings",
     "Tab2Title3": "",
     "Tab3Title1": "Cluster Rules",
@@ -81,7 +81,7 @@ TCReward Vault earns 5ARc pts per hour played on servers!
 - Mating interval: 0.10
 - Maturation: x20
 - Egg hatch: x20
-- Player food & water drain: 0.5/0.3
+- Player food and water drain: 0.5/0.3
 - Crop growth speed: x3
 - Day cycle speed is default
 - 8 man Tribe limit + 1 Alliance allowed
@@ -97,7 +97,7 @@ TCReward Vault earns 5ARc pts per hour played on servers!
 - Tribute Uploads: 72 hrs
 - PvP gamma enabled
 - Map player location on
-- Player & Dino stats are vanilla / default, with the exception player stamina at 2, weight at 5, fortitude at 2, & dino stamina/weight at 2.
+- Player and Dino stats are vanilla / default, with the exception player stamina at 2, weight at 5, fortitude at 2, and dino stamina/weight at 2.
 - No dino uploads from Extinction to block Titan raids on other servers. (you can still use crypods)
 - Extinction spawns added to all other maps!
 - Wyverns, Rock Drakes and Griffins are tameable/breedable
@@ -123,10 +123,10 @@ Offline Guard System (OGS) Settings:
 
 Scorched Earth Only Settings:
 This is a special map in our cluster! You can transfer in and out without issue but has special settings:
-- Rockets,  Launchers & Auto Turrets Disabled (if you somehow get them they will despawn right away)
+- Rockets,  Launchers and Auto Turrets Disabled (if you somehow get them they will despawn right away)
 - Use Species X and Velonasaurs as turrets!
 - Insulation Penalty disabled.
-- S+ Gens & Tek Gen does not take dmg from storm or shutoff.
+- S+ Gens and Tek Gen does not take dmg from storm or shutoff.
 
 TCs Auto Rewards Settings:
 - 20 bonus pts when joining server
@@ -135,7 +135,7 @@ TCs Auto Rewards Settings:
 
 Rare Sightings Settings:
 - Put a Radio in slot 8 or 9 for rare dino sightings updates!
-- Rares don&quot;t keep buffs when cryod, transferred
+- Rares dont keep buffs when cryod, transferred
 - Babies of rares only carry stats, not buffs.",
     "Tab2Text3": "",
     "Tab3Text1": "
@@ -143,7 +143,7 @@ Rare Sightings Settings:
 Cluster rules:
 1. No undermeshing or exploiting terrain.
 2. No blatant racism. Will be dealt with on a case by case.
-3. Stuck or missing dinos are your problem. Stuck players who can&quot;t suicide or be helped by community will be helped by admins.
+3. Stuck or missing dinos are your problem. Stuck players who cant suicide or be helped by community will be helped by admins.
 4. No abusing the passive protect mod. If you use passive protect dinos to block paths, turret towers or any other access to your base you will be judged...harshly.
 5. Only 2 main bases per map per tribe. You can have max 4x4 outposts for farming/taming within reason.
 6. No blocking or using turrets at obelisks, wyvern spawns, ragnarok pearl cave or extinction titan terminals!
@@ -152,7 +152,7 @@ Cluster rules:
 Cluster etiquette:
 1. Try not to be a dick.
 2. When raiding try to just get in and get the loot. Try to leave the tribe a chance to rebuild. Killing every single dino that is not aggressive or neutral is just being a dick; try to be chill. See #1
-3. You see a newbie tribe w a small stone base? Maybe DON&quot;T wipe them just for shits... See #1",
+3. You see a newbie tribe w a small stone base? Maybe DONT wipe them just for shits... See #1",
     "Tab3Text2": "",
     "Tab3Text3": "",
     "Tab4Text1": "",
