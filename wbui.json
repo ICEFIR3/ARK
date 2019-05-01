@@ -56,8 +56,12 @@
     "Tab5Title1": "",
     "Tab5Title2": "",
     "Tab5Title3": "",
-    "Tab1Text1": "Welcome to the ICEFIRE Ark Cluster
-    
+    "Tab1Text1": "
+
+Welcome to the ICEFIRE Ark Cluster
+
+This is a community run cluster. The players have the say!
+
 Maps: Island - Aberration - Ragnarok - The Center - Extinction - Scorched Earth
 
 Current Cluster Event: ARKaeology
@@ -68,7 +72,9 @@ TCReward Vault earns 5ARc pts per hour played on servers!
     ",
     "Tab1Text2": "",
     "Tab1Text3": "",
-    "Tab2Text1": "- Player level cap 105 (+ ascension)
+    "Tab2Text1": "
+    
+- Player level cap 105 (+ ascension)
 - Player XP x5
 - Harvesting x10
 - Taming x20
@@ -132,7 +138,8 @@ Rare Sightings Settings:
 - Rares don&quot;t keep buffs when cryod, transferred
 - Babies of rares only carry stats, not buffs.",
     "Tab2Text3": "",
-    "Tab3Text1": "This is a community run cluster. The players have the say! 
+    "Tab3Text1": "
+
 Cluster rules:
 1. No undermeshing or exploiting terrain.
 2. No blatant racism. Will be dealt with on a case by case.
