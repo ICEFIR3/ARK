@@ -37,17 +37,17 @@
     "Background3Color": "0,0,255,0.5",
     "FontColorButtons": "255,255,255",
     "FontColorServerName": "255,95,0",
-    "FontColorTabTitles": "20,255,0",
-    "FontColorTabText": "255,255,255",
+    "FontColorTabTitles": "20,0,255",
+    "FontColorTabText": "150,150,255",
     "UseSteamBrowserLink1": false,
     "UseSteamBrowserLink2": false,
     "Tab1Title1": "A 6 Map PVP Cluster Wiped 4/18 | x5 XP / x10 Harvest / x20 Taming/Breeding",
-    "Tab1Title2": "Rates & Settings",
-    "Tab1Title3": "Cluster Rules",
-    "Tab2Title1": "",
-    "Tab2Title2": "",
+    "Tab1Title2": "",
+    "Tab1Title3": "",
+    "Tab2Title1": "Cluster Rates & Settings",
+    "Tab2Title2": "Mod Settings",
     "Tab2Title3": "",
-    "Tab3Title1": "",
+    "Tab3Title1": "Cluster Rules",
     "Tab3Title2": "",
     "Tab3Title3": "",
     "Tab4Title1": "",
@@ -59,69 +59,69 @@
     "Tab1Text1": "",
     "Tab1Text2": "",
     "Tab1Text3": "",
-    "Tab2Text1": "→ Player level cap 105 (+ ascension)
-→ Player XP x5
-→ Harvesting x10
-→ Taming x20
-→ Mating interval: 0.10
-→ Maturation: x20
-→ Egg hatch: x20
-→ Player food & water drain: 0.5/0.3
-→ Crop growth speed: x3
-→ Day cycle speed is default
-→ 8 man Tribe limit + 1 Alliance allowed
-→ Cave dmg multiplier: x6
-→ Loot multiplier: x1.5
-→ Turret limit: 100 in 50 foundation radius
-→ Gacha Crafting Skill: x2
-→ Crosshair enabled
-→ Admin Logging enabled
-→ Third person enabled
-→ Floating dmg text enabled
-→ Unlimited respecs allowed
-→ Tribute Uploads: 72 hrs
-→ PvP gamma enabled
-→ Map player location on
-→ Player & Dino stats are vanilla / default, with the exception player stamina at 2, weight at 5, fortitude at 2, & dino stamina/weight at 2.
-→ No dino uploads from Extinction to block Titan raids on other servers. (you can still use crypods)
-→ Extinction spawns added to all other maps!
-→ Wyverns, Rock Drakes and Griffins are tameable/breedable
-→ Equalized Dino mod makes all maps have better chance at high lvl dinos just like Ragnarok.",
+    "Tab2Text1": "- Player level cap 105 (+ ascension)
+- Player XP x5
+- Harvesting x10
+- Taming x20
+- Mating interval: 0.10
+- Maturation: x20
+- Egg hatch: x20
+- Player food & water drain: 0.5/0.3
+- Crop growth speed: x3
+- Day cycle speed is default
+- 8 man Tribe limit + 1 Alliance allowed
+- Cave dmg multiplier: x6
+- Loot multiplier: x1.5
+- Turret limit: 100 in 50 foundation radius
+- Gacha Crafting Skill: x2
+- Crosshair enabled
+- Admin Logging enabled
+- Third person enabled
+- Floating dmg text enabled
+- Unlimited respecs allowed
+- Tribute Uploads: 72 hrs
+- PvP gamma enabled
+- Map player location on
+- Player & Dino stats are vanilla / default, with the exception player stamina at 2, weight at 5, fortitude at 2, & dino stamina/weight at 2.
+- No dino uploads from Extinction to block Titan raids on other servers. (you can still use crypods)
+- Extinction spawns added to all other maps!
+- Wyverns, Rock Drakes and Griffins are tameable/breedable
+- Equalized Dino mod makes all maps have better chance at high lvl dinos just like Ragnarok.",
     "Tab2Text2": "S+ Settings:
-→ S+ ATV disabled
-→ S+ Repair Gun disabled
-→ S+ Mutator Modes: Mutation, Freeze Age and Force Breeding
-→ S+ turret variants disabled
-→ S+ Shield Gen min placement 25 foundations
-→ S+ Nanny available - High Range
-→ S+ Hatchery has 200 slots
+- S+ ATV disabled
+- S+ Repair Gun disabled
+- S+ Mutator Modes: Mutation, Freeze Age and Force Breeding
+- S+ turret variants disabled
+- S+ Shield Gen min placement 25 foundations
+- S+ Nanny available - High Range
+- S+ Hatchery has 200 slots
 
 Offline Guard System (OGS) Settings:
-→ Max shield range: 45
-→ Power Up Delay: 10min
-→ Power Up Delay w 30+ turrets: 30min
-→ Max Number Per Tribe: 2
-→ Dino HP x4
-→ Structure HP x2
-→ Turret DMG x2
-→ New Tribes or Just Raided Tribes: 72hr OGS activation, even when online, (must be requested, PM Portal on discord)
+- Max shield range: 45
+- Power Up Delay: 10min
+- Power Up Delay w 30+ turrets: 30min
+- Max Number Per Tribe: 2
+- Dino HP x4
+- Structure HP x2
+- Turret DMG x2
+- New Tribes or Just Raided Tribes: 72hr OGS activation, even when online, (must be requested, PM Portal on discord)
 
 Scorched Earth Only Settings:
 This is a special map in our cluster! You can transfer in and out without issue but has special settings:
-→ Rockets,  Launchers & Auto Turrets Disabled (if you somehow get them they will despawn right away)
-→ Use Species X and Velonasaurs as turrets!
-→ Insulation Penalty disabled.
-→ S+ Gens & Tek Gen does not take dmg from storm or shutoff.
+- Rockets,  Launchers & Auto Turrets Disabled (if you somehow get them they will despawn right away)
+- Use Species X and Velonasaurs as turrets!
+- Insulation Penalty disabled.
+- S+ Gens & Tek Gen does not take dmg from storm or shutoff.
 
 TCs Auto Rewards Settings:
-→ 20 bonus pts when joining server
-→ 5 pts per hour played on server
-→ Points can be spent on BARs to transfer to other servers/trade to other players.
+- 20 bonus pts when joining server
+- 5 pts per hour played on server
+- Points can be spent on BARs to transfer to other servers/trade to other players.
 
 Rare Sightings Settings:
-→ Put a Radio in slot 8 or 9 for rare dino sightings updates!
-→ Rares don&quot;t keep buffs when cryod, transferred
-→ Babies of rares only carry stats, not buffs.",
+- Put a Radio in slot 8 or 9 for rare dino sightings updates!
+- Rares don&quot;t keep buffs when cryod, transferred
+- Babies of rares only carry stats, not buffs.",
     "Tab2Text3": "",
     "Tab3Text1": "This is a community run cluster. The players have the say! 
 Cluster rules:
