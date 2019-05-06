@@ -1,39 +1,19 @@
 {
     "ServerName": "ICEFIRE ARK CLUSTER",
     "ButtonTxt1": "Welcome",
-    "ButtonTxt2": "",
     "ButtonTxt3": "Cluster Rules",
-    "ButtonTxt4": "",
-    "ButtonTxt5": "",
     "LinkButtonTxt1": "Discord",
     "LinkButtonTxt2": "Mod List",
     "LinkButtonTxt3": "Battleclinic",
     "LinkButtonTxt4": "Arkservers.net",
-    "LinkButtonTxt5": "",
     "LinkButton1": "https://discord.gg/CCSduFV",
     "LinkButton2": "https://steamcommunity.com/id/Thoramiiiir/myworkshopfiles/?appid=346110&browsefilter=myfavorites",
     "Link1Button3": "https://www.battlemetrics.com/servers/ark?q=icefire&sort=score",
-    "Link2Button3": "",
-    "Link3Button3": "",
-    "Link4Button3": "",
     "Link1Button4": "https://arkservers.net/server/199.15.249.18:8430",
-    "Link2Button4": "",
-    "Link3Button4": "",
-    "Link4Button4": "",
-    "Link1Button5": "",
-    "Link2Button5": "",
-    "Link3Button5": "",
-    "Link4Button5": "",
     "Tab1Panelcount": 1,
-    "Tab2Panelcount": 2,
     "Tab3Panelcount": 1,
-    "Tab4Panelcount": 1,
-    "Tab5Panelcount": 1,
     "BackgroundTab1": 4,
-    "BackgroundTab2": 4,
     "BackgroundTab3": 4,
-    "BackgroundTab4": 4,
-    "BackgroundTab5": 4,
     "Background3Color": "0,0,255,0.5",
     "FontColorButtons": "175,225,255",
     "FontColorServerName": "255,95,0",
@@ -42,20 +22,6 @@
     "UseSteamBrowserLink1": false,
     "UseSteamBrowserLink2": false,
     "Tab1Title1": "A 6 Map PVP Cluster Wiped 4/18 | x5 XP / x10 Harvest / x20 Taming/Breeding",
-    "Tab1Title2": "",
-    "Tab1Title3": "",
-    "Tab2Title1": "",
-    "Tab2Title2": "",
-    "Tab2Title3": "",
-    "Tab3Title1": "",
-    "Tab3Title2": "",
-    "Tab3Title3": "",
-    "Tab4Title1": "",
-    "Tab4Title2": "",
-    "Tab4Title3": "",
-    "Tab5Title1": "",
-    "Tab5Title2": "",
-    "Tab5Title3": "",
     "Tab1Text1": "
 
 Welcome to the ICEFIRE Ark Cluster
@@ -74,10 +40,6 @@ TCReward Vault earns 5ARc pts per hour played on servers!
 
 Pease read discord cluster channels for more info on rules and settings.
     ",
-    "Tab1Text2": "",
-    "Tab1Text3": "",
-    "Tab2Text1": "",
-    "Tab2Text3": "",
     "Tab3Text1": "
 
 Cluster rules:
@@ -92,13 +54,5 @@ Cluster rules:
 Cluster etiquette:
 1. Try not to be a dick.
 2. When raiding try to just get in and get the loot. Try to leave the tribe a chance to rebuild. Killing every single dino that is not aggressive or neutral is just being a dick; try to be chill. See #1
-3. You see a newbie tribe w a small stone base? Maybe DONT wipe them just for shits... See #1",
-    "Tab3Text2": "",
-    "Tab3Text3": "",
-    "Tab4Text1": "",
-    "Tab4Text2": "",
-    "Tab4Text3": "",
-    "Tab5Text1": "",
-    "Tab5Text2": "",
-    "Tab5Text3": ""
+3. You see a newbie tribe w a small stone base? Maybe DONT wipe them just for shits... See #1"
 }
